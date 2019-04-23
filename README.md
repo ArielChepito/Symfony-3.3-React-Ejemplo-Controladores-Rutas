@@ -1,4 +1,10 @@
-crud
-====
 
-A Symfony project created on November 20, 2017, 8:27 pm.
+Ejemplo Symfony
+=======================================================
+
+Este repositorio es un ejemplo de symfony para aprendizaje propio
+
+Librerias:
+
+* Symfony
+* React
